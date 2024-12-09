@@ -1,0 +1,59 @@
+# Build output directories
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+ 
+# Compiled object files, static libraries, and DLLs
+*.obj
+*.pdb
+*.exe
+*.dll
+*.lib
+*.app
+*.dSYM
+*.ipa
+*.so
+ 
+# Project-specific files
+*.log
+*.temp
+*.vs
+*.vscode/
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+ 
+# Unreal Engine-specific files
+*.ini
+*.generated.*
+*.uprojectdirs
+*.pri
+*.Intermediates
+*.VC.db
+*.userprefs
+*.user
+ 
+# Telemetry files
+Saved/Telemetry/
+ 
+# Git-specific files
+.git/
+ 
+# Ignore crash dumps and debug files
+*.dump
+*.dmp
+ 
+# Ignore macOS system files
+.DS_Store
+ 
+# Ignore Windows system files
+Thumbs.db
+ 
+# Ignore Python and temporary files
+*.pyc
+*.tmp
+*.bak
+*.swp
