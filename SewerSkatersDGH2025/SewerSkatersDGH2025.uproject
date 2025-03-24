@@ -11,5 +11,8 @@
 				"Editor"
 			]
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"../../../../Downloads/TweenMak2697451ee75dV15"
 	]
 }
